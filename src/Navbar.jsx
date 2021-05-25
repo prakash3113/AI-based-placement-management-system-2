@@ -10,7 +10,7 @@ const Navbar = () => {
                
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container-fluid">
-    <NavLink className="navbar-brand" to="/">Wellcome To<strong> BSPAK</strong>  <br></br>With Prakash Raje</NavLink>
+    <NavLink className="navbar-brand" to="/">Wellcome To<strong> WebSoftEra</strong>  </NavLink>
     <button className="navbar-toggler" 
     type="button" data-bs-toggle="collapse"
      data-bs-target="#navbarSupportedContent"

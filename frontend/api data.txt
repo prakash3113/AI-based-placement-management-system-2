@@ -1,0 +1,38 @@
+	"question": {
+        "question": "Find Square Root of Number"
+    },
+	"output": {
+        "output": [
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "instructions": "1 some instructions are here"
+},
+{
+	"question": {
+        "question": "Make sum of this numbers"
+    },
+	"output": {
+        "output": [
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "instructions": "2 some instructions are here"
+},
+{
+	"question": {
+        "question": "following numbers are palindrome or not"
+    },
+	"output": {
+        "output": [
+            "palindrome",
+            "not palindrome",
+            "palindrome"
+        ]
+    },
+    "instructions": "3 some instructions are here"
+}];

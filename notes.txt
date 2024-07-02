@@ -1,0 +1,141 @@
+//Group Decussion Result Format
+
+[
+    {
+        "_id": "625eb08c44f3eb6e4614f375",
+        "result": [
+            {
+                "accuracy": 0.8970978260040283,
+                "point": "I think, A GD for MBA admission is usually of 20-25 minutes and wherein a topic is given to a group given about five minutes to prepare the topic before the discussion is started.",
+                "quality": "Excellent point"
+            },
+            {
+                "accuracy": 0.37397104501724243,
+                "point": "I don't know",
+                "quality": "Bad point"
+            },
+            {
+                "accuracy": 0.8594949245452881,
+                "point": "According to the statistics released in the Survey, the Demonetization had not led to Rs 2.8 lakh crores less cash (Equivalent to 1.8% of GDP) and Rs 3.8 lakh crores more high denomination notes (Equivalent to 2.5% of GDP) in the Indian economy.",
+                "quality": "Excellent point"
+            },
+            {
+                "accuracy": 0.3232150077819824,
+                "point": "array is not a data strcuture",
+                "quality": "Bad point"
+            }
+        ],
+        "testUUID": "testUUID",
+        "topic": "Java"
+    }
+]
+
+
+//Technical Result Format
+
+[
+    {
+        "__v": 0,
+        "_id": "6259c95899f7089f719c3364",
+        "answer": "My name is Mithilesh",
+        "question": "What is your name 2",
+        "requiredWords": [
+            "My",
+            "name",
+            "is"
+        ],
+        "topic": "topic"
+    },
+    {
+        "__v": 0,
+        "_id": "6259ce2dcd665f241e8d0d89",
+        "answer": "A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes.",
+        "question": "what is object in java",
+        "requiredWords": [
+            "javac",
+            " object",
+            " instance"
+        ],
+        "topic": "topic"
+    },
+    {
+        "__v": 0,
+        "_id": "6259cefc7d936037e60d1e9a",
+        "answer": "A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes.",
+        "question": "what is object",
+        "requiredWords": [
+            "anything",
+            " test"
+        ],
+        "topic": "topic"
+    },
+    {
+        "__v": 0,
+        "_id": "6259d298f193b62c02909f35",
+        "answer": "A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes.",
+        "question": "test1",
+        "requiredWords": [
+            "javac",
+            " object",
+            " instance"
+        ],
+        "topic": "topic"
+    },
+    {
+        "__v": 0,
+        "_id": "6259d44af193b62c02909f37",
+        "answer": "A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes.",
+        "question": "test1",
+        "requiredWords": [
+            "javac",
+            " object",
+            " instance"
+        ],
+        "topic": "topic"
+    },
+    {
+        "__v": 0,
+        "_id": "625e49d954ebc52ececf6bd9",
+        "answer": "my name is",
+        "question": "what is your name",
+        "requiredWords": [
+            "python",
+            " programming",
+            " language"
+        ],
+        "topic": "name"
+    },
+    {
+        "__v": 0,
+        "_id": "625e69ef5f10d46d10cb939d",
+        "answer": "A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes.",
+        "question": "java what is",
+        "requiredWords": [
+            "javac",
+            " object",
+            " instance"
+        ],
+        "topic": "java"
+    },
+    {
+        "__v": 0,
+        "_id": "625e6b1e5f10d46d10cb939f",
+        "answer": "A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes.",
+        "question": "java what is",
+        "requiredWords": [
+            "javac",
+            " object",
+            " instance"
+        ],
+        "topic": "java"
+    }
+]
+
+
+
+
+
+
+
+user code + inputes(in DB)
+

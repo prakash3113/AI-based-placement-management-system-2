@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+    text-align: center;
+    align-items: center;
+}
+.container{
+    align-items: center;
+    margin: 50px;
+    text-align: center;
+}
+.form-control{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.form-group label{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 600;
+}
+.message {
+    font-size: 1.2em;
+    text-align: center;
+    color: #36a936;
+  }

@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-chart",
+        "count": "195",
+        "title": "Aptitude Test Users"
+    },
+    {
+        "icon": "bx bx-terminal",
+        "count": "111",
+        "title": "Technical Test Users"
+    },
+    {
+        "icon": "bx bx-group",
+        "count": "200",
+        "title": "Group Descussion Test Users"
+    },
+    {
+        "icon": "bx bx bx-package",
+        "count": "198",
+        "title": "Code Challange Test Users"
+    }
+]
